@@ -1,0 +1,9 @@
+# Ignore node_modules
+Backend/node_modules/
+Frontend/vite-project/node_modules/
+
+# Ignore .env file
+Backend/.env
+
+# Ignore specific file
+Backend/generate_hash.js
